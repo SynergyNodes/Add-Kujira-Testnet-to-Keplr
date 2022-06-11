@@ -8,7 +8,7 @@ We must thank ``Jack the Bulldog`` from ``Pupmos Network`` for providing ``REST`
 
 This will open ``DevTools`` window.
 
-![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-01-min.png)
+![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-01-min-01.png)
 
 ## 2) On the ``DevTools`` window, click on ``Console`` tab.
 
