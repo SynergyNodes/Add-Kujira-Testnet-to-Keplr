@@ -1,6 +1,6 @@
 # Adding Kujira Testnet to Keplr wallet
 
-1) Open Keplr wallet, right click on it and click on ``Inspect``
+## 1) Open Keplr wallet, right click on it and click on ``Inspect``
 
 ![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-01-min.png)
 
