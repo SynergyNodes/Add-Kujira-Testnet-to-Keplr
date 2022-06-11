@@ -82,6 +82,6 @@ window.keplr.experimentalSuggestChain({
 
 ## 9) The wallet is ready and you can copy the address.
 
-NOTE: After adding Kujira testnet to Keplr wallet, you can import the wallet using the backed up Mnemonic phrase.
+NOTE: After adding Kujira testnet to Keplr wallet, you can import the any wallet using the backed up Mnemonic phrase.
 
 ![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-07-min.png)
