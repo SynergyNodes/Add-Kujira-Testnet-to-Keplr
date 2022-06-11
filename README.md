@@ -70,8 +70,18 @@ window.keplr.experimentalSuggestChain({
 
 ![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-04-min.png)
 
+## 6) Click on ``Approve`` button on Keplr Wallet window.
+
 ![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-05-min.png)
 
+## 7) Close Keplr Wallet and re-open it.
+
+## 8) Click on the networks preset at top of Keplr Wallet, scroll down, and select ``Kujira Testnet``.
+
 ![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-06-min.png)
+
+## 9) The wallet is ready and you can copy the address.
+
+NOTE: After adding Kujira testnet to Keplr wallet, you can import the wallet using the backed up Mnemonic phrase.
 
 ![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-07-min.png)
