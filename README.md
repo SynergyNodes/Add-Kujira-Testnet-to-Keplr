@@ -1,6 +1,8 @@
 # Adding Kujira Testnet to Keplr wallet
 
-You can follow these steps in Google Chrome, Brave browser or any other browser which supports Keplr wallet extension.
+You can follow these steps in Google Chrome, Brave browser or any other browser which supports Keplr wallet extension. 
+
+We must thank ``Jack the Bulldog`` from ``Pupmos Network`` for providing ``REST`` and ``RPC`` endpoints. We are using these in the code to connect on Keplr Wallet.
 
 ## 1) Open Keplr wallet, right click on it and click on ``Inspect``.
 
